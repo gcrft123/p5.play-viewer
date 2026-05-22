@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/codeorg/*"
+  to = "https://studio.code.org/:splat"
+  status = 200
+  force = true
